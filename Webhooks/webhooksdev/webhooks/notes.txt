@@ -1,0 +1,18 @@
+Install psycopg2 for postgres
+Add url
+add postgres to settings
+add app to settings
+Add model
+Migrate / make migrations
+Add view
+Install VSCode with python
+
+Download node JS
+install global smee
+Smee requires running command from powershell
+uses a PS1 script - most change policy to allow
+
+Have smee running in powershell
+ Set-ExecutionPolicy -Scope CurrentUser
+ Can enter Unrestricted or AllSigned or Restricted for options
+smee --url https://smee.io/gvyLMGvzYzvpYPOX --path /webhook/ --port 8000
